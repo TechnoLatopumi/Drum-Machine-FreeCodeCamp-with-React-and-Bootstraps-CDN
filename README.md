@@ -8,11 +8,12 @@ to use this project :
 -React and Bootstrap CDN versions
 -React and ReactDOM: https://reactjs.org/docs/cdn-links.html
 -Babel: https://babeljs.io/en/setup#installation
--For Bootstrap use this CDN link: 
-https://cdnjs.cloudflare.com/ajax/lib...
+-For Bootstrap use this CDN link:  https://cdnjs.cloudflare.com/ajax/lib...
 
-###here is the preview for my project
+here is the preview for my project
 https://technolatopumi.github.io/Drum-Machine-FreeCodeCamp-with-React-and-Bootstraps-CDN/
-###check London SChlangen for detailed process, credits for him
+
+check London SChlangen for detailed process, credits for him
 https://www.youtube.com/channel/UC4oRFTHw71_CBSHAcCRmV6w
+
 ##happy coding!
