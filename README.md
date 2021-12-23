@@ -16,4 +16,4 @@ https://technolatopumi.github.io/Drum-Machine-FreeCodeCamp-with-React-and-Bootst
 check London SChlangen for detailed process, credits for him
 https://www.youtube.com/channel/UC4oRFTHw71_CBSHAcCRmV6w
 
-##happy coding!
+happy coding!
